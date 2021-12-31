@@ -1,4 +1,3 @@
-# input_data
 # Latihan 2
 ## Input Data Menggunakan Python
 
